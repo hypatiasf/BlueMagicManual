@@ -1,0 +1,15 @@
+.spell {
+  width: 108px;
+  height: 96px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  color: #FFF;
+}
+
+.spellIcon {
+  width: 59px;
+  height: 59px;
+  background-size: cover;
+}

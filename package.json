@@ -24,7 +24,7 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "homepage": "https://hypatiasf.github.io/blue_magic",
+  "homepage": "https://hypatiasf.github.io/BlueMagicManual",
   "repository": "https://github.com/hypatiasf/BlueMagicManual.git",
   "devDependencies": {
     "gh-pages": "^2.0.1"

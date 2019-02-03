@@ -22,7 +22,7 @@ class Manual extends React.Component {
       content = <Stage1 changeStage={this.newStage} />;
     } else if (this.state.stage === 2) {
       content = <Stage2 />;
-    }
+    } else content = <Stage2/>;
     return (
       <div className="manual">
         {content}

@@ -1,0 +1,13 @@
+.pagination {
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  width: 435px;
+}
+
+.pageNumber {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+  background-size: cover;
+}

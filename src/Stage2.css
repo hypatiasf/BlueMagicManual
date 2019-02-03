@@ -1,3 +1,6 @@
-.pagination {
-  background-color: azure;
+.leftPage {
+  flex-direction: column;
+  padding-left: 151px;
+  padding-top: 105px;
+  width: 476px;
 }
