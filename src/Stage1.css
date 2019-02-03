@@ -1,0 +1,39 @@
+.page {
+  width: 640px;
+  height: 720px;
+  display: flex;
+  flex-direction: column;
+}
+
+.messageBox {
+  margin-top: 270px;
+  margin-left: 15px;
+  width: 447px; /* 596 */
+  height: 120px; /* 160 */
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+}
+
+.messageBoxButton {
+  width: 108px; /*144*/
+  height: 25px; /*33*/
+  background-size: cover;
+  margin-top: 80px;
+}
+
+.languageSelector {
+  margin-top: 180px;
+  margin-left: 70px;
+  width: 360px;
+  height: 32px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.languageLogo {
+  width: 32px;
+  height: 32px;
+  background-size: cover;
+}
