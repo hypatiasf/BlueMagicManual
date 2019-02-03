@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/blue_magic/precache-manifest.9b558541fc6f17e9795a839b64e90b7e.js"
+  "/BlueMagicManual/precache-manifest.4d1aaffcad59a3a6abceb7ede2efc669.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/blue_magic/index.html", {
+workbox.routing.registerNavigationRoute("/BlueMagicManual/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
