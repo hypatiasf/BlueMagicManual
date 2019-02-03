@@ -3,6 +3,7 @@ import sources from "./sources";
 import './Stage2.css';
 import Pagination from './Pagination';
 import SpellList from './SpellList';
+import SectionPicker from './SectionPicker';
 
 export default class Stage2 extends React.Component {
   constructor(props) {
@@ -21,8 +22,14 @@ export default class Stage2 extends React.Component {
 
   render() {
     let spellDescription = '';
+    let sectionPicker = '';
     if (this.state.spell > -1) {
-      spellDescription = sources.spell[this.state.spell].description[this.state.spellPage];
+      spellDescription = sources.spell[this.state.spell].description;
+      if (Array.isArray(spellDescription)) {
+        console.log(spellDescription);
+        sectionPicker = <SectionPicker descriptions={spellDescription} modifyState={this.modifyState} />;
+        spellDescription = spellDescription[this.state.spellPage].content;
+      }
     }
     return (
       // Manual Background
@@ -36,7 +43,8 @@ export default class Stage2 extends React.Component {
               <SpellList page={this.state.page} modifyState={this.modifyState} />
             </div>
             {/*right*/}
-            <div className="page">
+            <div className="page rightPage">
+              {sectionPicker}
             </div>
           </div>
         </div>

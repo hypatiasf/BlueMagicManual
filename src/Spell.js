@@ -12,7 +12,7 @@ export default class Spell extends React.Component {
                  backgroundImage: `url(${sources.spell[this.props.spellId].icon})`,
                  marginBottom: 26
                }}
-               onClick={() => this.props.modifyState({spell: this.props.spellId})}
+               onClick={() => this.props.modifyState({spell: this.props.spellId, spellPage:0})}
           />
         </div>
       );

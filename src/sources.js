@@ -31,6 +31,11 @@ import P3 from './assets/img/p3.png';
 import P3Activated from './assets/img/p3l.png';
 import P4 from './assets/img/p4.png';
 import P4Activated from './assets/img/p4l.png';
+import Field from './assets/img/field.png';
+import Dungeon from './assets/img/dungeon.png';
+import LaNoscea from './assets/img/gc_oc.png';
+import Thanalan from './assets/img/gc_ds.png';
+import BlackShroud from './assets/img/gc_fr.png';
 import Spell01 from './assets/img/01.png';
 import Spell01Description from './assets/fg/01f.png';
 import Spell02 from './assets/img/02.png';
@@ -184,70 +189,106 @@ export default {
     Page4SpellId
   ],
   spell: [
-    {icon: Spell01, description: [Spell01Description]},
-    {icon: Spell02, description: [Spell02Description]},
-    {icon: Spell03, description: [Spell03Description]},
-    {icon: Spell04, description: [Spell04Description]},
-    {icon: Spell05, description: [Spell05Description]},
-    {icon: Spell06, description: [Spell06Description]},
-    {icon: Spell07, description: [Spell07Description]},
-    {icon: Spell08, description: [Spell08Description]},
-    {icon: Spell09, description: [Spell09Description]},
-    {icon: Spell10, description: [Spell10Description]},
-    {icon: Spell11, description: [Spell11Description1, Spell11Description2]},
-    {icon: Spell12, description: [Spell12Description]},
-    {icon: Spell13, description: [Spell13Description]},
-    {icon: Spell14, description: [Spell14Description]},
-    {icon: Spell15, description: [Spell15Description]},
-    {icon: Spell16, description: [Spell16Description]},
+    {icon: Spell01, description: Spell01Description},
+    {icon: Spell02, description: Spell02Description},
+    {icon: Spell03, description: Spell03Description},
+    {icon: Spell04, description: Spell04Description},
+    {icon: Spell05, description: Spell05Description},
+    {icon: Spell06, description: Spell06Description},
+    {icon: Spell07, description: Spell07Description},
+    {icon: Spell08, description: Spell08Description},
+    {icon: Spell09, description: Spell09Description},
+    {icon: Spell10, description: Spell10Description},
+    {
+      icon: Spell11, description: [
+        {icon: Field, content: Spell11Description1},
+        {icon: Dungeon, content: Spell11Description2}
+      ]
+    },
+    {icon: Spell12, description: Spell12Description},
+    {icon: Spell13, description: Spell13Description},
+    {icon: Spell14, description: Spell14Description},
+    {icon: Spell15, description: Spell15Description},
+    {icon: Spell16, description: Spell16Description},
     {
       icon: Spell17,
       description:
         [
-          Spell17Description1, Spell17Description2, Spell17Description3, Spell17Description4, Spell17Description5
+          {icon: LaNoscea, content: Spell17Description1},
+          {icon: BlackShroud, content: Spell17Description2},
+          {icon: Thanalan, content: Spell17Description3},
+          {icon: Dungeon, content: Spell17Description4},
+          {icon: Dungeon, content: Spell17Description5}
         ]
     },
-    {icon: Spell18, description: [Spell18Description1, Spell18Description2]},
-    {icon: Spell19, description: [Spell19Description1, Spell19Description2]},
-    {icon: Spell20, description: [Spell20Description]},
-    {icon: Spell21, description: [Spell21Description1, Spell21Description2, Spell21Description3]},
-    {icon: Spell22, description: [Spell22Description]},
-    {icon: Spell23, description: [Spell23Description1, Spell23Description2, Spell23Description3]},
-    {icon: Spell24, description: [Spell24Description]},
-    {icon: Spell25, description: [Spell25Description]},
-    {icon: Spell26, description: [Spell26Description]},
-    {icon: Spell27, description: [Spell27Description]},
-    {icon: Spell28, description: [Spell28Description1, Spell28Description2]},
-    {icon: Spell29, description: [Spell29Description]},
-    {icon: Spell30, description: [Spell30Description]},
+    {
+      icon: Spell18, description: [
+        {icon: Field, content: Spell18Description1},
+        {icon: Dungeon, content: Spell18Description2}
+      ]
+    },
+    {
+      icon: Spell19, description: [
+        {icon: Field, content: Spell19Description1},
+        {icon: Dungeon, content: Spell19Description2}
+      ]
+    },
+    {icon: Spell20, description: Spell20Description},
+    {
+      icon: Spell21, description: [
+        {icon: Field, content: Spell21Description1},
+        {icon: Dungeon, content: Spell21Description2},
+        {icon: Dungeon, content: Spell21Description3}
+      ]
+    },
+    {icon: Spell22, description: Spell22Description},
+    {
+      icon: Spell23, description: [
+        {icon: Thanalan, content: Spell23Description1},
+        {icon: BlackShroud, content: Spell23Description2},
+        {icon: LaNoscea, content: Spell23Description3},
+      ]
+    },
+    {icon: Spell24, description: Spell24Description},
+    {icon: Spell25, description: Spell25Description},
+    {icon: Spell26, description: Spell26Description},
+    {icon: Spell27, description: Spell27Description},
+    {
+      icon: Spell28, description: [
+        {icon: Field, content: Spell28Description1},
+        {icon: Dungeon, content: Spell28Description2}
+      ]
+    },
+    {icon: Spell29, description: Spell29Description},
+    {icon: Spell30, description: Spell30Description},
     {
       icon: Spell31,
       description:
         [
-          Spell31Description1,
-          Spell31Description2,
-          Spell31Description3,
-          Spell31Description4,
-          Spell31Description5
+          {icon: LaNoscea, content: Spell31Description1},
+          {icon: Thanalan, content: Spell31Description2},
+          {icon: BlackShroud, content: Spell31Description3},
+          {icon: Dungeon, content: Spell31Description4},
+          {icon: Dungeon, content: Spell31Description5}
         ]
     },
-    {icon: Spell32, description: [Spell32Description]},
-    {icon: Spell33, description: [Spell33Description]},
-    {icon: Spell34, description: [Spell34Description]},
-    {icon: Spell35, description: [Spell35Description]},
-    {icon: Spell36, description: [Spell36Description]},
-    {icon: Spell37, description: [Spell37Description]},
-    {icon: Spell38, description: [Spell38Description]},
-    {icon: Spell39, description: [Spell39Description]},
-    {icon: Spell40, description: [Spell40Description]},
-    {icon: Spell41, description: [Spell41Description]},
-    {icon: Spell42, description: [Spell42Description]},
-    {icon: Spell43, description: [Spell43Description]},
-    {icon: Spell44, description: [Spell44Description]},
-    {icon: Spell45, description: [Spell45Description]},
-    {icon: Spell46, description: [Spell46Description]},
-    {icon: Spell47, description: [Spell47Description]},
-    {icon: Spell48, description: [Spell48Description]},
-    {icon: Spell49, description: [Spell49Description]}
+    {icon: Spell32, description: Spell32Description},
+    {icon: Spell33, description: Spell33Description},
+    {icon: Spell34, description: Spell34Description},
+    {icon: Spell35, description: Spell35Description},
+    {icon: Spell36, description: Spell36Description},
+    {icon: Spell37, description: Spell37Description},
+    {icon: Spell38, description: Spell38Description},
+    {icon: Spell39, description: Spell39Description},
+    {icon: Spell40, description: Spell40Description},
+    {icon: Spell41, description: Spell41Description},
+    {icon: Spell42, description: Spell42Description},
+    {icon: Spell43, description: Spell43Description},
+    {icon: Spell44, description: Spell44Description},
+    {icon: Spell45, description: Spell45Description},
+    {icon: Spell46, description: Spell46Description},
+    {icon: Spell47, description: Spell47Description},
+    {icon: Spell48, description: Spell48Description},
+    {icon: Spell49, description: Spell49Description}
   ]
 };
