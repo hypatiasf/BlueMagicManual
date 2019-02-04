@@ -35,7 +35,11 @@ export default class Stage2 extends React.Component {
       // Manual Background
       <div className="manual" style={{backgroundImage: `url(${sources.Book})`}}>
         {/*Spell descriptions*/}
-        <div className="manual" style={{backgroundImage: `url(${spellDescription})`}}>
+        <div className="manual" style={{
+          backgroundImage: `url(${spellDescription})`,
+          backgroundRepeat: 'no-repeat',
+          backgroundPosition: 'right'
+        }}>
           <div className="manual" style={{backgroundImage: `url(${sources.spellId[this.state.page]})`}}>
             {/*left*/}
             <div className="page leftPage">
