@@ -40,7 +40,11 @@ export default class Stage2 extends React.Component {
           backgroundRepeat: 'no-repeat',
           backgroundPosition: 'right'
         }}>
-          <div className="manual" style={{backgroundImage: `url(${sources.spellId[this.state.page]})`}}>
+          <div className="manual" style={{
+            backgroundImage: `url(${sources.spellId[this.state.page]})`,
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition: 'left'
+          }}>
             {/*left*/}
             <div className="page leftPage">
               <Pagination style={{marginBottom: 17}} page={this.state.page} modifyState={this.modifyState} />
