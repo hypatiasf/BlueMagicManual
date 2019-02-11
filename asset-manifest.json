@@ -1,7 +1,7 @@
 {
-  "main.css": "/BlueMagicManual/static/css/main.afc6ba59.chunk.css",
-  "main.js": "/BlueMagicManual/static/js/main.4a936b74.chunk.js",
-  "main.js.map": "/BlueMagicManual/static/js/main.4a936b74.chunk.js.map",
+  "main.css": "/BlueMagicManual/static/css/main.ad2cf219.chunk.css",
+  "main.js": "/BlueMagicManual/static/js/main.063f4e13.chunk.js",
+  "main.js.map": "/BlueMagicManual/static/js/main.063f4e13.chunk.js.map",
   "static/js/1.35bcd51b.chunk.js": "/BlueMagicManual/static/js/1.35bcd51b.chunk.js",
   "static/js/1.35bcd51b.chunk.js.map": "/BlueMagicManual/static/js/1.35bcd51b.chunk.js.map",
   "runtime~main.js": "/BlueMagicManual/static/js/runtime~main.fa08498d.js",
@@ -155,8 +155,8 @@
   "static/media/48f.png": "/BlueMagicManual/static/media/48f.5e5e94ce.png",
   "static/media/49.png": "/BlueMagicManual/static/media/49.4a707d15.png",
   "static/media/49f.png": "/BlueMagicManual/static/media/49f.3ca586a4.png",
-  "static/css/main.afc6ba59.chunk.css.map": "/BlueMagicManual/static/css/main.afc6ba59.chunk.css.map",
+  "static/css/main.ad2cf219.chunk.css.map": "/BlueMagicManual/static/css/main.ad2cf219.chunk.css.map",
   "index.html": "/BlueMagicManual/index.html",
-  "precache-manifest.b2aaa4fa7d6d32bbecc3fed3f5c04b65.js": "/BlueMagicManual/precache-manifest.b2aaa4fa7d6d32bbecc3fed3f5c04b65.js",
+  "precache-manifest.93811861312a62320e931587d205c1b3.js": "/BlueMagicManual/precache-manifest.93811861312a62320e931587d205c1b3.js",
   "service-worker.js": "/BlueMagicManual/service-worker.js"
 }
