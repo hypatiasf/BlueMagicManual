@@ -26,7 +26,6 @@ export default class Stage2 extends React.Component {
     if (this.state.spell > -1) {
       spellDescription = sources.spell[this.state.spell].description;
       if (Array.isArray(spellDescription)) {
-        console.log(spellDescription);
         sectionPicker = <SectionPicker descriptions={spellDescription} modifyState={this.modifyState} />;
         spellDescription = spellDescription[this.state.spellPage].content;
       }
