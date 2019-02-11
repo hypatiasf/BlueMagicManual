@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BlueMagicManual/precache-manifest.93811861312a62320e931587d205c1b3.js"
+  "/BlueMagicManual/precache-manifest.4b380e897e6cd16d6786c90912fb3267.js"
 );
 
 workbox.clientsClaim();
