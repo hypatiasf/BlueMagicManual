@@ -215,8 +215,8 @@ export default {
       description:
         [
           {icon: LaNoscea, content: Spell17Description1},
-          {icon: BlackShroud, content: Spell17Description2},
-          {icon: Thanalan, content: Spell17Description3},
+          {icon: BlackShroud, content: Spell17Description3},
+          {icon: Thanalan, content: Spell17Description2},
           {icon: Dungeon, content: Spell17Description4},
           {icon: Dungeon, content: Spell17Description5}
         ]
