@@ -1,7 +1,7 @@
 {
   "main.css": "/BlueMagicManual/static/css/main.ad2cf219.chunk.css",
-  "main.js": "/BlueMagicManual/static/js/main.67f28fe9.chunk.js",
-  "main.js.map": "/BlueMagicManual/static/js/main.67f28fe9.chunk.js.map",
+  "main.js": "/BlueMagicManual/static/js/main.7a21f6b8.chunk.js",
+  "main.js.map": "/BlueMagicManual/static/js/main.7a21f6b8.chunk.js.map",
   "static/js/1.35bcd51b.chunk.js": "/BlueMagicManual/static/js/1.35bcd51b.chunk.js",
   "static/js/1.35bcd51b.chunk.js.map": "/BlueMagicManual/static/js/1.35bcd51b.chunk.js.map",
   "runtime~main.js": "/BlueMagicManual/static/js/runtime~main.fa08498d.js",
@@ -56,7 +56,7 @@
   "static/media/07.png": "/BlueMagicManual/static/media/07.21b7f939.png",
   "static/media/07f.png": "/BlueMagicManual/static/media/07f.9b3442c2.png",
   "static/media/08.png": "/BlueMagicManual/static/media/08.909bedf3.png",
-  "static/media/08f.png": "/BlueMagicManual/static/media/08f.f784ff14.png",
+  "static/media/08f.png": "/BlueMagicManual/static/media/08f.92a41323.png",
   "static/media/09.png": "/BlueMagicManual/static/media/09.a90f094c.png",
   "static/media/09f.png": "/BlueMagicManual/static/media/09f.b28385d2.png",
   "static/media/10.png": "/BlueMagicManual/static/media/10.167aa6a5.png",
@@ -157,6 +157,6 @@
   "static/media/49f.png": "/BlueMagicManual/static/media/49f.3ca586a4.png",
   "static/css/main.ad2cf219.chunk.css.map": "/BlueMagicManual/static/css/main.ad2cf219.chunk.css.map",
   "index.html": "/BlueMagicManual/index.html",
-  "precache-manifest.4b380e897e6cd16d6786c90912fb3267.js": "/BlueMagicManual/precache-manifest.4b380e897e6cd16d6786c90912fb3267.js",
+  "precache-manifest.5bf5189522c30e23287d515f6d037fe1.js": "/BlueMagicManual/precache-manifest.5bf5189522c30e23287d515f6d037fe1.js",
   "service-worker.js": "/BlueMagicManual/service-worker.js"
 }

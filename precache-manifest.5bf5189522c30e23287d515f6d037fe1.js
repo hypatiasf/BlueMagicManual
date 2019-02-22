@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/BlueMagicManual/static/media/17f_e.3af86313.png"
   },
   {
-    "revision": "67f28fe90e301e0bd8ad",
+    "revision": "7a21f6b8922e0f59cab1",
     "url": "/BlueMagicManual/static/css/main.ad2cf219.chunk.css"
   },
   {
@@ -216,8 +216,8 @@ self.__precacheManifest = [
     "url": "/BlueMagicManual/static/media/08.909bedf3.png"
   },
   {
-    "revision": "f784ff14fe72436c9898f8be4f1f06c8",
-    "url": "/BlueMagicManual/static/media/08f.f784ff14.png"
+    "revision": "92a41323bb1c0801b0e44dad4e34c8ec",
+    "url": "/BlueMagicManual/static/media/08f.92a41323.png"
   },
   {
     "revision": "a90f094ced714c4a6bc619382659ce02",
@@ -308,8 +308,8 @@ self.__precacheManifest = [
     "url": "/BlueMagicManual/static/media/17f_d.f55e50cf.png"
   },
   {
-    "revision": "67f28fe90e301e0bd8ad",
-    "url": "/BlueMagicManual/static/js/main.67f28fe9.chunk.js"
+    "revision": "7a21f6b8922e0f59cab1",
+    "url": "/BlueMagicManual/static/js/main.7a21f6b8.chunk.js"
   },
   {
     "revision": "3e51b14da709de290454c2dc2ec098ea",
@@ -612,7 +612,7 @@ self.__precacheManifest = [
     "url": "/BlueMagicManual/static/media/49f.3ca586a4.png"
   },
   {
-    "revision": "3f1db3daef666902258ec0eaf99e0824",
+    "revision": "81b77658ec809c23c5a1a7bf90748af9",
     "url": "/BlueMagicManual/index.html"
   }
 ];
