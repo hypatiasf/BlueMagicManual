@@ -22,6 +22,7 @@ import Page1SpellId from './assets/fg/P1n.png';
 import Page2SpellId from './assets/fg/P2n.png';
 import Page3SpellId from './assets/fg/P3n.png';
 import Page4SpellId from './assets/fg/P4n.png';
+import Page5SpellId from './assets/fg/P5n.png';
 
 import P1 from './assets/img/p1.png';
 import P1Activated from './assets/img/p1l.png';
@@ -31,6 +32,8 @@ import P3 from './assets/img/p3.png';
 import P3Activated from './assets/img/p3l.png';
 import P4 from './assets/img/p4.png';
 import P4Activated from './assets/img/p4l.png';
+import P5 from './assets/img/p5.png';
+import P5Activated from './assets/img/p5l.png';
 import Field from './assets/img/field.png';
 import Dungeon from './assets/img/dungeon.png';
 import LaNoscea from './assets/img/gc_oc.png';
@@ -150,6 +153,68 @@ import Spell48 from './assets/img/48.png';
 import Spell48Description from './assets/fg/48f.png';
 import Spell49 from './assets/img/49.png';
 import Spell49Description from './assets/fg/49f.png';
+import Spell50 from './assets/img/50.png';
+import Spell50Description from './assets/fg/50f.png';
+import Spell51 from './assets/img/51.png';
+import Spell51Description from './assets/fg/51f.png';
+import Spell52 from './assets/img/52.png';
+import Spell52Description from './assets/fg/52f.png';
+import Spell53 from './assets/img/53.png';
+import Spell53Description from './assets/fg/53f.png';
+import Spell54 from './assets/img/54.png';
+import Spell54Description from './assets/fg/54f.png';
+import Spell55 from './assets/img/55.png';
+import Spell55Description from './assets/fg/55f.png';
+import Spell56 from './assets/img/56.png';
+import Spell56Description from './assets/fg/56f.png';
+import Spell57 from './assets/img/57.png';
+import Spell57Description from './assets/fg/57f.png';
+import Spell58 from './assets/img/58.png';
+import Spell58Description from './assets/fg/58f.png';
+import Spell59 from './assets/img/59.png';
+import Spell59Description from './assets/fg/59f.png';
+import Spell60 from './assets/img/60.png';
+import Spell60Description from './assets/fg/60f.png';
+import Spell61 from './assets/img/61.png';
+import Spell61Description from './assets/fg/61f.png';
+import Spell62 from './assets/img/62.png';
+import Spell62Description from './assets/fg/62f.png';
+import Spell63 from './assets/img/63.png';
+import Spell63Description from './assets/fg/63f.png';
+import Spell64 from './assets/img/64.png';
+import Spell64Description from './assets/fg/64f.png';
+import Spell65 from './assets/img/65.png';
+import Spell65Description from './assets/fg/65f.png';
+import Spell66 from './assets/img/66.png';
+import Spell66Description from './assets/fg/66f.png';
+import Spell67 from './assets/img/67.png';
+import Spell67Description from './assets/fg/67f.png';
+import Spell68 from './assets/img/68.png';
+import Spell68Description from './assets/fg/68f.png';
+import Spell69 from './assets/img/69.png';
+import Spell69Description from './assets/fg/69f.png';
+import Spell70 from './assets/img/70.png';
+import Spell70Description from './assets/fg/70f.png';
+import Spell71 from './assets/img/71.png';
+import Spell71Description from './assets/fg/71f.png';
+import Spell72 from './assets/img/72.png';
+import Spell72Description from './assets/fg/72f.png';
+import Spell73 from './assets/img/73.png';
+import Spell73Description from './assets/fg/73f.png';
+import Spell74 from './assets/img/74.png';
+import Spell74Description from './assets/fg/74f.png';
+import Spell75 from './assets/img/75.png';
+import Spell75Description from './assets/fg/75f.png';
+import Spell76 from './assets/img/76.png';
+import Spell76Description from './assets/fg/76f.png';
+import Spell77 from './assets/img/77.png';
+import Spell77Description from './assets/fg/77f.png';
+import Spell78 from './assets/img/78.png';
+import Spell78Description from './assets/fg/78f.png';
+import Spell79 from './assets/img/79.png';
+import Spell79Description from './assets/fg/79f.png';
+import Spell80 from './assets/img/80.png';
+import Spell80Description from './assets/fg/80f.png';
 
 
 export default {
@@ -180,13 +245,15 @@ export default {
     {normal: P1, activated: P1Activated},
     {normal: P2, activated: P2Activated},
     {normal: P3, activated: P3Activated},
-    {normal: P4, activated: P4Activated}
+    {normal: P4, activated: P4Activated},
+    {normal: P5, activated: P5Activated},
   ],
   spellId: [
     Page1SpellId,
     Page2SpellId,
     Page3SpellId,
-    Page4SpellId
+    Page4SpellId,
+    Page5SpellId,
   ],
   spell: [
     {icon: Spell01, description: Spell01Description},
@@ -289,6 +356,37 @@ export default {
     {icon: Spell46, description: Spell46Description},
     {icon: Spell47, description: Spell47Description},
     {icon: Spell48, description: Spell48Description},
-    {icon: Spell49, description: Spell49Description}
+    {icon: Spell49, description: Spell49Description},
+    {icon: Spell50, description: Spell50Description},
+    {icon: Spell51, description: Spell51Description},
+    {icon: Spell52, description: Spell52Description},
+    {icon: Spell53, description: Spell53Description},
+    {icon: Spell54, description: Spell54Description},
+    {icon: Spell55, description: Spell55Description},
+    {icon: Spell56, description: Spell56Description},
+    {icon: Spell57, description: Spell57Description},
+    {icon: Spell58, description: Spell58Description},
+    {icon: Spell59, description: Spell59Description},
+    {icon: Spell60, description: Spell60Description},
+    {icon: Spell61, description: Spell61Description},
+    {icon: Spell62, description: Spell62Description},
+    {icon: Spell63, description: Spell63Description},
+    {icon: Spell64, description: Spell64Description},
+    {icon: Spell65, description: Spell65Description},
+    {icon: Spell66, description: Spell66Description},
+    {icon: Spell67, description: Spell67Description},
+    {icon: Spell68, description: Spell68Description},
+    {icon: Spell69, description: Spell69Description},
+    {icon: Spell70, description: Spell70Description},
+    {icon: Spell71, description: Spell71Description},
+    {icon: Spell72, description: Spell72Description},
+    {icon: Spell73, description: Spell73Description},
+    {icon: Spell74, description: Spell74Description},
+    {icon: Spell75, description: Spell75Description},
+    {icon: Spell76, description: Spell76Description},
+    {icon: Spell77, description: Spell77Description},
+    {icon: Spell78, description: Spell78Description},
+    {icon: Spell79, description: Spell79Description},
+    {icon: Spell80, description: Spell80Description},
   ]
 };
