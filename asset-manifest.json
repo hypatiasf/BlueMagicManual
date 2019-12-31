@@ -1,7 +1,7 @@
 {
-  "main.css": "/BlueMagicManual/static/css/main.83109717.chunk.css",
-  "main.js": "/BlueMagicManual/static/js/main.f8df225d.chunk.js",
-  "main.js.map": "/BlueMagicManual/static/js/main.f8df225d.chunk.js.map",
+  "main.css": "/BlueMagicManual/static/css/main.2efae370.chunk.css",
+  "main.js": "/BlueMagicManual/static/js/main.a713342a.chunk.js",
+  "main.js.map": "/BlueMagicManual/static/js/main.a713342a.chunk.js.map",
   "static/js/1.5d63bedb.chunk.js": "/BlueMagicManual/static/js/1.5d63bedb.chunk.js",
   "static/js/1.5d63bedb.chunk.js.map": "/BlueMagicManual/static/js/1.5d63bedb.chunk.js.map",
   "runtime~main.js": "/BlueMagicManual/static/js/runtime~main.fa08498d.js",
@@ -195,7 +195,7 @@
   "static/media/67.png": "/BlueMagicManual/static/media/67.a928f1a8.png",
   "static/media/67f.png": "/BlueMagicManual/static/media/67f.39293358.png",
   "static/media/68.png": "/BlueMagicManual/static/media/68.811ca3b7.png",
-  "static/media/68f.png": "/BlueMagicManual/static/media/68f.7d44fe1a.png",
+  "static/media/68f.png": "/BlueMagicManual/static/media/68f.2c3ba8da.png",
   "static/media/69.png": "/BlueMagicManual/static/media/69.3ecd351e.png",
   "static/media/69f.png": "/BlueMagicManual/static/media/69f.0985f230.png",
   "static/media/70.png": "/BlueMagicManual/static/media/70.72e9b3ac.png",
@@ -220,8 +220,8 @@
   "static/media/79f.png": "/BlueMagicManual/static/media/79f.3a367a4f.png",
   "static/media/80.png": "/BlueMagicManual/static/media/80.e58f0a05.png",
   "static/media/80f.png": "/BlueMagicManual/static/media/80f.7a09236f.png",
-  "static/css/main.83109717.chunk.css.map": "/BlueMagicManual/static/css/main.83109717.chunk.css.map",
+  "static/css/main.2efae370.chunk.css.map": "/BlueMagicManual/static/css/main.2efae370.chunk.css.map",
   "index.html": "/BlueMagicManual/index.html",
-  "precache-manifest.1e4a2a10041376a1f34c98e453fa133b.js": "/BlueMagicManual/precache-manifest.1e4a2a10041376a1f34c98e453fa133b.js",
+  "precache-manifest.8f5e2df9e597411f5986dc9ff5c078ad.js": "/BlueMagicManual/precache-manifest.8f5e2df9e597411f5986dc9ff5c078ad.js",
   "service-worker.js": "/BlueMagicManual/service-worker.js"
 }
