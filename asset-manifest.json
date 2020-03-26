@@ -1,9 +1,9 @@
 {
   "main.css": "/BlueMagicManual/static/css/main.2efae370.chunk.css",
-  "main.js": "/BlueMagicManual/static/js/main.a713342a.chunk.js",
-  "main.js.map": "/BlueMagicManual/static/js/main.a713342a.chunk.js.map",
-  "static/js/1.5d63bedb.chunk.js": "/BlueMagicManual/static/js/1.5d63bedb.chunk.js",
-  "static/js/1.5d63bedb.chunk.js.map": "/BlueMagicManual/static/js/1.5d63bedb.chunk.js.map",
+  "main.js": "/BlueMagicManual/static/js/main.3763a2d6.chunk.js",
+  "main.js.map": "/BlueMagicManual/static/js/main.3763a2d6.chunk.js.map",
+  "static/js/1.bce0f0e4.chunk.js": "/BlueMagicManual/static/js/1.bce0f0e4.chunk.js",
+  "static/js/1.bce0f0e4.chunk.js.map": "/BlueMagicManual/static/js/1.bce0f0e4.chunk.js.map",
   "runtime~main.js": "/BlueMagicManual/static/js/runtime~main.fa08498d.js",
   "runtime~main.js.map": "/BlueMagicManual/static/js/runtime~main.fa08498d.js.map",
   "static/media/31f_b.png": "/BlueMagicManual/static/media/31f_b.a28698fb.png",
@@ -84,8 +84,8 @@
   "static/media/17f_d.png": "/BlueMagicManual/static/media/17f_d.3cfc8188.png",
   "static/media/17f_e.png": "/BlueMagicManual/static/media/17f_e.36989dc8.png",
   "static/media/18.png": "/BlueMagicManual/static/media/18.3e51b14d.png",
-  "static/media/18f_a.png": "/BlueMagicManual/static/media/18f_a.554b6c60.png",
-  "static/media/18f_b.png": "/BlueMagicManual/static/media/18f_b.874cf896.png",
+  "static/media/18f_a.png": "/BlueMagicManual/static/media/18f_a.d9ec0050.png",
+  "static/media/18f_b.png": "/BlueMagicManual/static/media/18f_b.9b4dedc2.png",
   "static/media/19.png": "/BlueMagicManual/static/media/19.3facd6df.png",
   "static/media/19f_a.png": "/BlueMagicManual/static/media/19f_a.0d863c32.png",
   "static/media/19f_b.png": "/BlueMagicManual/static/media/19f_b.cac4e53b.png",
@@ -222,6 +222,6 @@
   "static/media/80f.png": "/BlueMagicManual/static/media/80f.7a09236f.png",
   "static/css/main.2efae370.chunk.css.map": "/BlueMagicManual/static/css/main.2efae370.chunk.css.map",
   "index.html": "/BlueMagicManual/index.html",
-  "precache-manifest.8f5e2df9e597411f5986dc9ff5c078ad.js": "/BlueMagicManual/precache-manifest.8f5e2df9e597411f5986dc9ff5c078ad.js",
+  "precache-manifest.77c3d05e206b708432c23b4125321468.js": "/BlueMagicManual/precache-manifest.77c3d05e206b708432c23b4125321468.js",
   "service-worker.js": "/BlueMagicManual/service-worker.js"
 }
