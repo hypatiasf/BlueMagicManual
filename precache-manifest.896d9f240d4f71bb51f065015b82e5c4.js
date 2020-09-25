@@ -1,171 +1,27 @@
-self.__precacheManifest = [
+self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7bc558999d38935b1089e0c76c3fa09a",
-    "url": "/BlueMagicManual/static/media/28f_b.7bc55899.png"
+    "revision": "37aebb93850610822971c7c0b46060c7",
+    "url": "/BlueMagicManual/index.html"
   },
   {
-    "revision": "cdb25adc19a91e91eb1b",
-    "url": "/BlueMagicManual/static/css/main.2efae370.chunk.css"
+    "revision": "4b97d512267afc8428ee",
+    "url": "/BlueMagicManual/static/css/main.3b92a40b.chunk.css"
   },
   {
-    "revision": "bce0f0e4ab77ad1ad56c",
-    "url": "/BlueMagicManual/static/js/1.bce0f0e4.chunk.js"
+    "revision": "df7544f3668237f7ea7d",
+    "url": "/BlueMagicManual/static/js/2.d5949975.chunk.js"
   },
   {
-    "revision": "fa08498de43979225fba",
-    "url": "/BlueMagicManual/static/js/runtime~main.fa08498d.js"
+    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
+    "url": "/BlueMagicManual/static/js/2.d5949975.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b056b07c24b6d7e7538eb2e5930df15d",
-    "url": "/BlueMagicManual/static/media/dungeon.b056b07c.png"
+    "revision": "4b97d512267afc8428ee",
+    "url": "/BlueMagicManual/static/js/main.1c6c1637.chunk.js"
   },
   {
-    "revision": "5e92650bf2dcf6d47fca712e6535024b",
-    "url": "/BlueMagicManual/static/media/field.5e92650b.png"
-  },
-  {
-    "revision": "4cb992659c90d099dff00805224cd3f7",
-    "url": "/BlueMagicManual/static/media/gc_oc.4cb99265.png"
-  },
-  {
-    "revision": "59d10e2eb9e6ce00d5d3860d305106d8",
-    "url": "/BlueMagicManual/static/media/gc_ds.59d10e2e.png"
-  },
-  {
-    "revision": "eca5622aa695f1d5a145b3de1e8daa2a",
-    "url": "/BlueMagicManual/static/media/gc_fr.eca5622a.png"
-  },
-  {
-    "revision": "cae587f8c3f4413e8f3add0bd2a0530a",
-    "url": "/BlueMagicManual/static/media/book_f.cae587f8.png"
-  },
-  {
-    "revision": "07d91e25d11e663ad39e43b98875a4ce",
-    "url": "/BlueMagicManual/static/media/book_t.07d91e25.png"
-  },
-  {
-    "revision": "1d229ce14497af395b927061ebdd3f4d",
-    "url": "/BlueMagicManual/static/media/book.1d229ce1.png"
-  },
-  {
-    "revision": "dfff2d1d7a694e9bf6d48c9201f8b186",
-    "url": "/BlueMagicManual/static/media/preface_cn.dfff2d1d.png"
-  },
-  {
-    "revision": "08a708c93ea9a8bf50d001755e523a55",
-    "url": "/BlueMagicManual/static/media/preface_en.08a708c9.png"
-  },
-  {
-    "revision": "b9af4c9225e0decc7a292a5eff699017",
-    "url": "/BlueMagicManual/static/media/preface_jp.b9af4c92.png"
-  },
-  {
-    "revision": "315c06ed1b89297504679dda519af483",
-    "url": "/BlueMagicManual/static/media/selectboard_cn.315c06ed.png"
-  },
-  {
-    "revision": "36c5ae3e5ba38596b0d9606e576742b4",
-    "url": "/BlueMagicManual/static/media/selectboard_en.36c5ae3e.png"
-  },
-  {
-    "revision": "9c121380d1f6279d5e2349f80e3dd084",
-    "url": "/BlueMagicManual/static/media/selectboard_jp.9c121380.png"
-  },
-  {
-    "revision": "d8c4ee519a2b1308ea2946405e8bb72e",
-    "url": "/BlueMagicManual/static/media/yes_cn.d8c4ee51.png"
-  },
-  {
-    "revision": "1de6be2d08391bc7d59b664c87825998",
-    "url": "/BlueMagicManual/static/media/yes_en.1de6be2d.png"
-  },
-  {
-    "revision": "9ffe319cb7ea9057b2f9a8f024074f1f",
-    "url": "/BlueMagicManual/static/media/yes_jp.9ffe319c.png"
-  },
-  {
-    "revision": "196e9db82c8652ab2bc7d206676b3d3f",
-    "url": "/BlueMagicManual/static/media/langu_cn.196e9db8.png"
-  },
-  {
-    "revision": "9c52bf1b67b7fb597ba022895469dd70",
-    "url": "/BlueMagicManual/static/media/langu_cn_l.9c52bf1b.png"
-  },
-  {
-    "revision": "e9dd800ef971ee8e1214db3125b511e6",
-    "url": "/BlueMagicManual/static/media/langu_en.e9dd800e.png"
-  },
-  {
-    "revision": "43cdeef4c2a8254cd52b8b9128d544e9",
-    "url": "/BlueMagicManual/static/media/langu_en_l.43cdeef4.png"
-  },
-  {
-    "revision": "87f9b1cd2c261e673620604ddc9b973d",
-    "url": "/BlueMagicManual/static/media/langu_jp.87f9b1cd.png"
-  },
-  {
-    "revision": "67a9458159ca97af421c6c3f374e72c5",
-    "url": "/BlueMagicManual/static/media/langu_jp_l.67a94581.png"
-  },
-  {
-    "revision": "39c5b5c050d47e511c1cc13639c8d452",
-    "url": "/BlueMagicManual/static/media/P1n.39c5b5c0.png"
-  },
-  {
-    "revision": "7421e5d1e3074358006832ce0455eaa8",
-    "url": "/BlueMagicManual/static/media/P2n.7421e5d1.png"
-  },
-  {
-    "revision": "339f9d09e5a68192881dcb24c0668ea2",
-    "url": "/BlueMagicManual/static/media/P3n.339f9d09.png"
-  },
-  {
-    "revision": "bc73265bb4386a7869d44604f237fbe5",
-    "url": "/BlueMagicManual/static/media/P4n.bc73265b.png"
-  },
-  {
-    "revision": "c2368ac4c79dde2d2bbb1f1f952fb1e0",
-    "url": "/BlueMagicManual/static/media/P5n.c2368ac4.png"
-  },
-  {
-    "revision": "2c16eb18aae3e190bc88a459e306840c",
-    "url": "/BlueMagicManual/static/media/p1.2c16eb18.png"
-  },
-  {
-    "revision": "50a74f2f0b4855f9bc2086235cef388c",
-    "url": "/BlueMagicManual/static/media/p1l.50a74f2f.png"
-  },
-  {
-    "revision": "454ccc858501c453f873eaaa65400426",
-    "url": "/BlueMagicManual/static/media/p2.454ccc85.png"
-  },
-  {
-    "revision": "899e6448725bcb7deb8aabdce1f2f5b7",
-    "url": "/BlueMagicManual/static/media/p2l.899e6448.png"
-  },
-  {
-    "revision": "6dc3d20117a2d450702be6ba3da257de",
-    "url": "/BlueMagicManual/static/media/p3.6dc3d201.png"
-  },
-  {
-    "revision": "96c1735d06148a437a8e9fc354daaaf0",
-    "url": "/BlueMagicManual/static/media/p3l.96c1735d.png"
-  },
-  {
-    "revision": "c5fd01672b9f1ece2f32825f579c963d",
-    "url": "/BlueMagicManual/static/media/p4.c5fd0167.png"
-  },
-  {
-    "revision": "7c835160df437147fafbea5d645d4a8d",
-    "url": "/BlueMagicManual/static/media/p4l.7c835160.png"
-  },
-  {
-    "revision": "336a8c04ac6c1528e0a946451b99d4ef",
-    "url": "/BlueMagicManual/static/media/p5.336a8c04.png"
-  },
-  {
-    "revision": "6560d8f2c0c40ef4cbdb6c409c96e01e",
-    "url": "/BlueMagicManual/static/media/p5l.6560d8f2.png"
+    "revision": "2ae8cc2726f44c58780b",
+    "url": "/BlueMagicManual/static/js/runtime-main.3edc2acb.js"
   },
   {
     "revision": "d498dbda3292d37e90a74fdcc23a7dca",
@@ -436,8 +292,8 @@ self.__precacheManifest = [
     "url": "/BlueMagicManual/static/media/28f_a.26767808.png"
   },
   {
-    "revision": "cdb25adc19a91e91eb1b",
-    "url": "/BlueMagicManual/static/js/main.cdb25adc.chunk.js"
+    "revision": "7bc558999d38935b1089e0c76c3fa09a",
+    "url": "/BlueMagicManual/static/media/28f_b.7bc55899.png"
   },
   {
     "revision": "02f707c66e74cfd92ad876ece8a4e756",
@@ -872,7 +728,155 @@ self.__precacheManifest = [
     "url": "/BlueMagicManual/static/media/80f.5b9160e0.png"
   },
   {
-    "revision": "2391b151dbcc673d2ac8a6107810f0cf",
-    "url": "/BlueMagicManual/index.html"
+    "revision": "39c5b5c050d47e511c1cc13639c8d452",
+    "url": "/BlueMagicManual/static/media/P1n.39c5b5c0.png"
+  },
+  {
+    "revision": "7421e5d1e3074358006832ce0455eaa8",
+    "url": "/BlueMagicManual/static/media/P2n.7421e5d1.png"
+  },
+  {
+    "revision": "339f9d09e5a68192881dcb24c0668ea2",
+    "url": "/BlueMagicManual/static/media/P3n.339f9d09.png"
+  },
+  {
+    "revision": "bc73265bb4386a7869d44604f237fbe5",
+    "url": "/BlueMagicManual/static/media/P4n.bc73265b.png"
+  },
+  {
+    "revision": "c2368ac4c79dde2d2bbb1f1f952fb1e0",
+    "url": "/BlueMagicManual/static/media/P5n.c2368ac4.png"
+  },
+  {
+    "revision": "1d229ce14497af395b927061ebdd3f4d",
+    "url": "/BlueMagicManual/static/media/book.1d229ce1.png"
+  },
+  {
+    "revision": "cae587f8c3f4413e8f3add0bd2a0530a",
+    "url": "/BlueMagicManual/static/media/book_f.cae587f8.png"
+  },
+  {
+    "revision": "07d91e25d11e663ad39e43b98875a4ce",
+    "url": "/BlueMagicManual/static/media/book_t.07d91e25.png"
+  },
+  {
+    "revision": "b056b07c24b6d7e7538eb2e5930df15d",
+    "url": "/BlueMagicManual/static/media/dungeon.b056b07c.png"
+  },
+  {
+    "revision": "5e92650bf2dcf6d47fca712e6535024b",
+    "url": "/BlueMagicManual/static/media/field.5e92650b.png"
+  },
+  {
+    "revision": "59d10e2eb9e6ce00d5d3860d305106d8",
+    "url": "/BlueMagicManual/static/media/gc_ds.59d10e2e.png"
+  },
+  {
+    "revision": "eca5622aa695f1d5a145b3de1e8daa2a",
+    "url": "/BlueMagicManual/static/media/gc_fr.eca5622a.png"
+  },
+  {
+    "revision": "4cb992659c90d099dff00805224cd3f7",
+    "url": "/BlueMagicManual/static/media/gc_oc.4cb99265.png"
+  },
+  {
+    "revision": "196e9db82c8652ab2bc7d206676b3d3f",
+    "url": "/BlueMagicManual/static/media/langu_cn.196e9db8.png"
+  },
+  {
+    "revision": "9c52bf1b67b7fb597ba022895469dd70",
+    "url": "/BlueMagicManual/static/media/langu_cn_l.9c52bf1b.png"
+  },
+  {
+    "revision": "e9dd800ef971ee8e1214db3125b511e6",
+    "url": "/BlueMagicManual/static/media/langu_en.e9dd800e.png"
+  },
+  {
+    "revision": "43cdeef4c2a8254cd52b8b9128d544e9",
+    "url": "/BlueMagicManual/static/media/langu_en_l.43cdeef4.png"
+  },
+  {
+    "revision": "87f9b1cd2c261e673620604ddc9b973d",
+    "url": "/BlueMagicManual/static/media/langu_jp.87f9b1cd.png"
+  },
+  {
+    "revision": "67a9458159ca97af421c6c3f374e72c5",
+    "url": "/BlueMagicManual/static/media/langu_jp_l.67a94581.png"
+  },
+  {
+    "revision": "2c16eb18aae3e190bc88a459e306840c",
+    "url": "/BlueMagicManual/static/media/p1.2c16eb18.png"
+  },
+  {
+    "revision": "50a74f2f0b4855f9bc2086235cef388c",
+    "url": "/BlueMagicManual/static/media/p1l.50a74f2f.png"
+  },
+  {
+    "revision": "454ccc858501c453f873eaaa65400426",
+    "url": "/BlueMagicManual/static/media/p2.454ccc85.png"
+  },
+  {
+    "revision": "899e6448725bcb7deb8aabdce1f2f5b7",
+    "url": "/BlueMagicManual/static/media/p2l.899e6448.png"
+  },
+  {
+    "revision": "6dc3d20117a2d450702be6ba3da257de",
+    "url": "/BlueMagicManual/static/media/p3.6dc3d201.png"
+  },
+  {
+    "revision": "96c1735d06148a437a8e9fc354daaaf0",
+    "url": "/BlueMagicManual/static/media/p3l.96c1735d.png"
+  },
+  {
+    "revision": "c5fd01672b9f1ece2f32825f579c963d",
+    "url": "/BlueMagicManual/static/media/p4.c5fd0167.png"
+  },
+  {
+    "revision": "7c835160df437147fafbea5d645d4a8d",
+    "url": "/BlueMagicManual/static/media/p4l.7c835160.png"
+  },
+  {
+    "revision": "336a8c04ac6c1528e0a946451b99d4ef",
+    "url": "/BlueMagicManual/static/media/p5.336a8c04.png"
+  },
+  {
+    "revision": "6560d8f2c0c40ef4cbdb6c409c96e01e",
+    "url": "/BlueMagicManual/static/media/p5l.6560d8f2.png"
+  },
+  {
+    "revision": "dfff2d1d7a694e9bf6d48c9201f8b186",
+    "url": "/BlueMagicManual/static/media/preface_cn.dfff2d1d.png"
+  },
+  {
+    "revision": "08a708c93ea9a8bf50d001755e523a55",
+    "url": "/BlueMagicManual/static/media/preface_en.08a708c9.png"
+  },
+  {
+    "revision": "b9af4c9225e0decc7a292a5eff699017",
+    "url": "/BlueMagicManual/static/media/preface_jp.b9af4c92.png"
+  },
+  {
+    "revision": "315c06ed1b89297504679dda519af483",
+    "url": "/BlueMagicManual/static/media/selectboard_cn.315c06ed.png"
+  },
+  {
+    "revision": "36c5ae3e5ba38596b0d9606e576742b4",
+    "url": "/BlueMagicManual/static/media/selectboard_en.36c5ae3e.png"
+  },
+  {
+    "revision": "9c121380d1f6279d5e2349f80e3dd084",
+    "url": "/BlueMagicManual/static/media/selectboard_jp.9c121380.png"
+  },
+  {
+    "revision": "d8c4ee519a2b1308ea2946405e8bb72e",
+    "url": "/BlueMagicManual/static/media/yes_cn.d8c4ee51.png"
+  },
+  {
+    "revision": "1de6be2d08391bc7d59b664c87825998",
+    "url": "/BlueMagicManual/static/media/yes_en.1de6be2d.png"
+  },
+  {
+    "revision": "9ffe319cb7ea9057b2f9a8f024074f1f",
+    "url": "/BlueMagicManual/static/media/yes_jp.9ffe319c.png"
   }
-];
+]);
